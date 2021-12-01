@@ -1,6 +1,6 @@
 # Membuat Todo dengan Vue 3 + Vite
 
-membagun sebuah system todo list dengan mengunakan vue 3 dan vite js
+membagun sebuah simple todo list dengan mengunakan vue 3 dan vite js untuk membantu dalam mengerjakan task - taks yang di kerjakan hari ini
 ## fitur yang terdapat pada todo
 - menambahkan list todo
 - menghapus list todo
